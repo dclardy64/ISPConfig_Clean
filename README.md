@@ -3,12 +3,14 @@ ISPConfig_Clean
 
 A cleaner theme for ISPConfig 3. The default theme leaves a lot to be desired.
 
-Be sure to pick the correct branch. There were some changes that were made to the theming system that break the 3.4 version inside of 3.5
+This repo is now a just a place to point you to the correct theme location.
 
-Installation
-------------
+3.0.4
+-----
 
-1. Copy this folder to your /usr/local/ispconfig/web/interface/themes/ISPConfig_Clean
-2. Edit /usr/local/ispconfig/web/interface/lib/config.inc.php default theme to ISPConfig_Clean
-3. Edit the header logo location. Change default to ISPConfig_Clean is all that needs to be done.
-4. Enjoy the new theme. I will be making changes as I have time.
+
+
+3.0.5
+-----
+
+This theme is not currently working. It is under development. I will be working to complete it as soon as I can.
