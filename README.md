@@ -1,4 +1,4 @@
-ISPConfig_Clean
+ISPConfig Clean
 ===============
 
 A cleaner theme for ISPConfig 3. The default theme leaves a lot to be desired.
