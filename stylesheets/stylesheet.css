@@ -477,3 +477,8 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {}
+
+.donate form {
+  background: none;
+  padding: none;
+}
